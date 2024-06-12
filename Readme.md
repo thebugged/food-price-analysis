@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://food-price-analysis.streamlit.app" target="_blank">
-      <img src="" alt="Banner">
+      <img src="https://github.com/thebugged/food-price-analysis/assets/74977495/86b025f5-8978-4da5-b9f3-a6bab9c7faa6)" alt="Banner">
     </a>
   <br />
 
