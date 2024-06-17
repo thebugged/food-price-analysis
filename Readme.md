@@ -61,4 +61,4 @@ You can go through the `food_price_analysis.ipynb` notebooks to see more insight
 
 The application will be available in your browser at http://localhost:8501.
 
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://food-price-analysis.streamlit.app)
